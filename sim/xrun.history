@@ -1,0 +1,116 @@
+s1(18Sep2024:11:36:30):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s2(18Sep2024:11:39:35):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s3(18Sep2024:11:41:42):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s4(18Sep2024:11:47:02):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s5(18Sep2024:11:49:46):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s6(18Sep2024:11:51:25):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s7(18Sep2024:11:54:56):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s8(18Sep2024:11:56:06):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s9(18Sep2024:11:59:12):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s10(18Sep2024:12:06:55):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s11(18Sep2024:12:08:26):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s12(18Sep2024:12:08:53):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s13(18Sep2024:12:14:45):  xrun top.sv top_tb.sv -access +rwc -gui 
+s14(18Sep2024:12:21:24):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s15(18Sep2024:12:26:36):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s16(18Sep2024:12:29:32):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s17(18Sep2024:12:33:13):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s18(18Sep2024:12:34:01):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s19(18Sep2024:12:34:19):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s20(18Sep2024:12:34:36):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s21(19Sep2024:04:41:40):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s22(19Sep2024:04:48:10):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s23(19Sep2024:04:49:27):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s24(19Sep2024:04:57:46):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s25(19Sep2024:05:02:58):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s26(19Sep2024:05:37:54):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s27(19Sep2024:05:46:53):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s28(19Sep2024:05:54:13):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s29(19Sep2024:06:23:13):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s30(19Sep2024:06:26:24):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s31(19Sep2024:06:27:57):  xrun -access +rwc -f src.args -gui 
+s32(19Sep2024:06:28:48):  xrun -access +rwc -f src.args -gui 
+s33(19Sep2024:06:29:21):  xrun -access +rwc -f src.args -gui 
+s34(19Sep2024:06:35:05):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s35(19Sep2024:06:45:21):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s36(19Sep2024:06:47:06):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s37(19Sep2024:06:57:20):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s38(19Sep2024:07:05:36):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s39(19Sep2024:07:05:56):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s40(19Sep2024:07:09:41):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s41(19Sep2024:07:17:37):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s42(19Sep2024:07:18:46):  xrun -batch -access+rwc -sv -f src.args -timescale 1ns/100ps 
+s43(19Sep2024:07:20:07):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s44(19Sep2024:07:20:22):  xrun -batch -access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s45(19Sep2024:07:20:35):  xrun -batch +access+rwc src.args -gui -timescale 1ns/100ps 
+s46(19Sep2024:07:21:25):  xrun help 
+s47(19Sep2024:07:22:45):  xrun -batch +access+rwc src.args -gui -timescale 1ns/100ps 
+s48(19Sep2024:08:09:24):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s49(19Sep2024:08:10:57):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s50(19Sep2024:08:16:03):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s51(19Sep2024:08:41:44):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s52(20Sep2024:11:41:45):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s53(20Sep2024:11:42:14):  xrun -batch -access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s54(20Sep2024:11:42:26):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s55(20Sep2024:11:42:49):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s56(20Sep2024:11:43:09):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s57(20Sep2024:11:43:35):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s58(20Sep2024:11:44:03):  xrun -batch +access+rwc -sv -f src.args -gui -timescale 1ns/100ps 
+s59(20Sep2024:11:44:57):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s60(23Sep2024:08:14:25):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s61(23Sep2024:08:14:47):  xrun --version 
+s62(23Sep2024:11:16:18):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s63(24Sep2024:11:08:24):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s64(24Sep2024:11:08:50):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s65(24Sep2024:11:10:34):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s66(24Sep2024:11:14:33):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s67(24Sep2024:11:14:38):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s68(26Sep2024:07:13:50):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s69(26Sep2024:07:15:31):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s70(26Sep2024:07:16:59):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s71(26Sep2024:07:19:20):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s72(26Sep2024:07:19:36):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s73(26Sep2024:07:21:15):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s74(26Sep2024:07:21:55):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s75(26Sep2024:07:23:44):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s76(26Sep2024:07:24:06):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s77(26Sep2024:07:24:15):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s78(26Sep2024:07:27:36):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s79(26Sep2024:07:28:29):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s80(26Sep2024:07:29:05):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s81(26Sep2024:07:37:58):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s82(26Sep2024:07:38:07):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s83(26Sep2024:07:38:57):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s84(26Sep2024:07:41:03):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s85(26Sep2024:07:42:56):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s86(26Sep2024:07:43:24):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s87(26Sep2024:07:44:04):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s88(26Sep2024:07:47:02):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s89(26Sep2024:07:47:52):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s90(26Sep2024:07:51:36):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s91(26Sep2024:07:52:44):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s92(26Sep2024:07:53:02):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s93(26Sep2024:07:53:26):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s94(26Sep2024:07:53:30):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s95(26Sep2024:08:02:36):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s96(26Sep2024:08:03:07):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s97(26Sep2024:08:12:30):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s98(26Sep2024:08:12:49):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s99(26Sep2024:08:12:58):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s100(26Sep2024:08:13:02):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s101(26Sep2024:08:18:27):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s102(26Sep2024:08:18:55):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s103(26Sep2024:08:19:19):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s104(26Sep2024:08:19:47):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s105(26Sep2024:08:20:41):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s106(26Sep2024:08:20:52):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s107(26Sep2024:09:19:50):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s108(26Sep2024:09:19:55):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s109(26Sep2024:09:23:34):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s110(26Sep2024:09:23:46):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s111(26Sep2024:09:23:48):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s112(26Sep2024:09:29:56):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s113(26Sep2024:09:30:43):  xrun -f src.args -access +rwc -gui -timescale 1ns/1ps 
+s114(26Sep2024:09:58:29):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s115(26Sep2024:10:20:11):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 
+s116(26Sep2024:10:22:40):  xrun -batch +access+rwc -sv -f src.args -timescale 1ns/100ps 

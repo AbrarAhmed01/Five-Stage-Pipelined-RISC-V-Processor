@@ -1,0 +1,17 @@
+./tracer_core/pkg.sv
+./tracer_core/tracer_pkg.sv
+./tracer_core/tracer.sv
+../rtl/alu_logic.sv
+../rtl/branch_comp.sv
+../rtl/branch_decision.sv
+../rtl/control_unit.sv
+../rtl/data_mem.sv
+../rtl/fwd_logic.sv
+../rtl/hazard_detection.sv
+../rtl/imm_gen.sv
+../rtl/inst_mem.sv
+../rtl/pipe_reg.sv
+../rtl/program_counter.sv
+../rtl/reg_file.sv
+../rtl/top.sv
+../tb/top_tb.sv

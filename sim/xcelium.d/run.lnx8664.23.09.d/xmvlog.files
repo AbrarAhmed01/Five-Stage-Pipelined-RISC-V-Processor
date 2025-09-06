@@ -1,0 +1,21 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+"/home/cc/CAO/lab 25/sim/tracer_core/pkg.sv"
+"/home/cc/CAO/lab 25/sim/tracer_core/tracer_pkg.sv"
+"/home/cc/CAO/lab 25/sim/tracer_core/tracer.sv"
+"/home/cc/CAO/lab 25/rtl/alu_logic.sv"
+"/home/cc/CAO/lab 25/rtl/branch_comp.sv"
+"/home/cc/CAO/lab 25/rtl/branch_decision.sv"
+"/home/cc/CAO/lab 25/rtl/control_unit.sv"
+"/home/cc/CAO/lab 25/rtl/data_mem.sv"
+"/home/cc/CAO/lab 25/rtl/fwd_logic.sv"
+"/home/cc/CAO/lab 25/rtl/hazard_detection.sv"
+"/home/cc/CAO/lab 25/rtl/imm_gen.sv"
+"/home/cc/CAO/lab 25/rtl/inst_mem.sv"
+"/home/cc/CAO/lab 25/rtl/pipe_reg.sv"
+"/home/cc/CAO/lab 25/rtl/program_counter.sv"
+"/home/cc/CAO/lab 25/rtl/reg_file.sv"
+"/home/cc/CAO/lab 25/rtl/top.sv"
+"/home/cc/CAO/lab 25/tb/top_tb.sv"
