@@ -1,5 +1,4 @@
 # Five-Stage-Pipelined-RISC-V-Processor
-# Pipelined RISC-V Processor Verification with Tracer
 
 This repository contains the **design and verification** of a **5-stage pipelined RISC-V RV32I processor** with hazard handling and tracer integration.  
 The project was part of **Digital Design Verification Lab #25**.
